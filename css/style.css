@@ -1,0 +1,24 @@
+.hoje {
+  color: darkred;
+}
+
+.Amanhã {
+  color: darkblue;
+}
+
+.none {
+  text-decoration: none;
+}
+
+.seagreen {
+  color: seagreen;
+  text-decoration: none;
+}
+
+.grande {
+  font-size: 20px;
+}
+
+body {
+  font-family: "arial", sans-serif;
+}
